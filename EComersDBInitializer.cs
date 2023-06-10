@@ -181,7 +181,7 @@ namespace EComersDBworkerLib
                         {
                             Name = "Administrator",
                             Login = "root",
-                            PasswordHash = "AA1ErrppyaCRFwPt23VjHGb9rVkSjG/wI0N+pOZOS9d0IleA6ZoHCjOLfoGmGUstzg==", //password1234
+                            PasswordHash = "", //password1234
                             RoleId = 1,
                             StatusId = 1,
                             CreatedDate = DateTime.UtcNow,
